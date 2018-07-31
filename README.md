@@ -1,5 +1,6 @@
 # Reference
-https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+Part 1: https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+PArt 2: https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121
 
 # ExampleNg6LibApp
 
