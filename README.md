@@ -1,3 +1,6 @@
+# Reference
+https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+
 # ExampleNg6LibApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
